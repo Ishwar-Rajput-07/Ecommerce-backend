@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "productName": "laptop",
+      "productPrice": "45550",
+      "image": "https://images.unsplash.com/photo-1681893946454-c00b2dc66b16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDI1fDZzTVZqVExTa2VRfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+      "stock": "20",
+      "isAvailable": "8",
+      "id": 3
+    },
+    {
+      "productName": "lap",
+      "productPrice": "220",
+      "image": "https://images.unsplash.com/photo-1682001426601-c7fdc9ea5b4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDM0fDZzTVZqVExTa2VRfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+      "stock": "10",
+      "isAvailable": "Yes",
+      "id": 5
+    },
+    {
+      "productName": "",
+      "productPrice": "",
+      "image": "asd",
+      "isAvailable": "asd",
+      "stock": "ad",
+      "ADD": "asd",
+      "device": "mobile",
+      "id": 6
+    }
+  ]
+}
